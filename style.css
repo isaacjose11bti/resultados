@@ -190,10 +190,10 @@ border-radius: 3.2rem;
         padding: 3.8rem 4rem;
         border-radius: 3.2rem;
     }
-
+ a
     .resumo h2 {
         font-size: 2.4rem;
-        margin-bottom: 3rem;
+        margin-bottom: 3rem; 
     }
 
     .resumo div {
@@ -203,7 +203,7 @@ border-radius: 3.2rem;
     .resumo button {
  margin-top: 2.4rem;
     }
-e
+
     .resumo button:hover {
         background: var(--resultado-bg);
         cursor: pointer;
